@@ -66,4 +66,5 @@ The system provides three main API endpoints:
 - `PORT`: Server port (default: 5000)
 - `MONGODB_URI`: MongoDB connection string
 - `FIRECRAWL_API_KEY`: Secret key for Firecrawl
+- `JWT_SECRET`: Your JWT Secret key
 - `GROQ_API_KEY`: API key for Groq (Mixtral model)

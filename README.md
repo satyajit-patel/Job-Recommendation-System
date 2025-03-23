@@ -2,7 +2,7 @@
 
 A microservice-based backend application that provides job recommendations based on resume analysis using Natural Language Processing.
 
-# find the live link [here](coming soon)
+# find the live link [here](https://job-recommendation-system-two.vercel.app)
 
 ## Project Overview
 

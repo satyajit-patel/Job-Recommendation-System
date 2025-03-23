@@ -1,5 +1,5 @@
-const Resume = require('../models/Resume'); // Resume
-const User = require('../models/User');
+const Resume = require('../models/resume'); // resume
+const User = require('../models/user');
 const fs = require('fs');
 const { processResume } = require('../utils/resumeProcessor');
 const { fetchJobRecommendations } = require('../utils/jobScraper');
